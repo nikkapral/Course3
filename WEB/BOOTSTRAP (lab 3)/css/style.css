@@ -1,47 +1,40 @@
-:root{
-    --color1: #05b1b1;
-    --color2: #151719;
-    --color3: #FFFFFF;
-}
-
-header, footer, section {
-    padding: 100px 0;
-}
-
-header {
-    padding: 200px;
-    background: rgb(21,23,25);
-    background: linear-gradient(0deg, rgba(21,23,25,1) 19%, rgba(4,1,18,1) 47%, rgba(3,36,57,1) 67%, rgba(3,61,85,1) 82%, rgba(6,105,125,1) 98%);
-}
-
-section {
-    background-color: var(--color2);
-}
-
-.btn-itd {
-    display: grid;
-    max-width: 300px;
-    margin: 0 auto;
-    padding: 8px 100px;
-    color: rgb(0, 0, 0);
-    background-color: #ffffff;
-}
-
-.btn-itd:hover {
-
-    color: rgb(255, 255, 255);
-    background-color: black;     
-
-}
-
- .color1 {
-     color: var(--color1)
- }
-
- .color2 {
-     color: var(--color2)
- }
-
- .color3 {
-     color: var(--color3)
- }
+.tasks-container .tasks-container__heading {
+    margin-top: 16px;
+  }
+  .tasks-container .tasks-container__heading h4 {
+    width: max-content;
+    padding: 4px 8px;
+  }
+  .tasks-container.high .tasks-container__heading {
+    background: #ff9898;
+  }
+  .tasks-container.high .tasks-container__heading h4 {
+    background: #ff3131;
+  }
+  .tasks-container.high .tasks-container__task {
+    border-left: 4px solid #ff3131;
+  }
+  .tasks-container.medium .tasks-container__heading {
+    background: #feff98;
+  }
+  .tasks-container.medium .tasks-container__heading h4 {
+    background: #fff130;
+  }
+  .tasks-container.medium .tasks-container__task {
+    border-left: 4px solid #fff130;
+  }
+  .tasks-container.low .tasks-container__heading {
+    background: #a1ff98;
+  }
+  .tasks-container.low .tasks-container__heading h4 {
+    background: #30ff31;
+  }
+  .tasks-container.low .tasks-container__task {
+    border-left: 4px solid #30ff31;
+  }
+  .tasks-container .tasks-container__task {
+    padding: 8px;
+    display: flex;
+    gap: 40px;
+    border-bottom: 2px solid #c4c4c4;
+  }
