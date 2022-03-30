@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Second Window</string>
+
+    //Butons
+    <string name="toLayout2BTN">NEXT WINDOW</string>
+
+</resources>
