@@ -79,6 +79,7 @@ public class Activity2 extends AppCompatActivity {
         Intent intent = new Intent(this, Activity3.class);
         intent.putExtra("key",value);
         startActivity(intent);
+        finish();
 
     }
 
