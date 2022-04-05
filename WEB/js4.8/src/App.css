@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-
 }
 
 .App-logo {
@@ -15,6 +14,7 @@
 }
 
 .App-header {
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,20 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.App-clock {
-  color: #ffffff;
-  animation: logoSpin infinite 1ms linear;
-  text-align: center;
-  margin-top: -5%;
-  font-size: 80px;
-  font-family: "Segoe UI Semibold";
-
-}
-
-.ItemsList {
-  align-content: flex-start;
-  font-size: 30px;
-  font-family: "Segoe UI Semilight";
 }

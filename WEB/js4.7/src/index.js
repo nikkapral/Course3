@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import styles from './App.css'
 import reportWebVitals from './reportWebVitals';
 
 
@@ -54,7 +55,7 @@ class SearchPlugin extends React.Component {
 
 }
 
-class Itemlist extends React.Component {
+class ItemsList extends React.Component {
     constructor(props) {
         super(props);
         this.state = {items: this.props.data.items};
@@ -71,7 +72,7 @@ class Itemlist extends React.Component {
 
     render() {
         return(
-            <div>
+            <div className={"ItemsList"}>
                 <h2>{this.props.data.title}</h2>
                 <SearchPlugin filter={this.filterList} />
                 <ul>
@@ -85,12 +86,51 @@ class Itemlist extends React.Component {
     }
 }
 
+
+
+class Clock extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            time: new Date().toLocaleString()
+        };
+    }
+
+    componentDidMount() {
+        this.intervalID = setInterval(() => this.tick(),1000)
+    }
+
+    componentWillUnmount() {
+        clearInterval(this.intervalID)
+    }
+
+    tick() {
+        this.setState({
+            time : new Date().toLocaleString(),
+        });
+    }
+
+
+    render() {
+        return (
+            <p className="App-clock">
+                Time: {this.state.time}.
+            </p>
+        );
+    }
+}
+
+
+
 ReactDOM.render(
-    <ItemList data={propsValues} />,
+    <ItemsList data={propsValues} />,
     document.getElementById("root")
 )
 
-
+ReactDOM.render(
+    <Clock/>,
+    document.getElementById("clock")
+)
 
 
 
