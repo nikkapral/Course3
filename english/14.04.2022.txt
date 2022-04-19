@@ -1,0 +1,7 @@
+!P 78 EX D
+fall, decrease -- collapse, plummet, plunge, slamp
+big, large -- enormous, huge, massive, significant, tremendous
+good -- brilliant, outstanding, superb, tremendous
+small -- minimal, insignificant
+
+This year popularity of  our brilliant FU soar tremendously 
