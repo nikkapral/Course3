@@ -1,0 +1,35 @@
+.header{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+  position: relative;
+
+
+  img{
+    float: left;
+    width: 100vw;
+    height: 100vh;
+    background: #555;
+    object-fit: cover;
+    filter: grayscale(90%);
+
+  }
+
+  .overflow{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(45deg, transparent, black 70%);
+  }
+
+  h1{
+    position:  absolute;
+    right: 20px;
+    color: azure;
+    margin-top: 40vh;
+    margin-right: 10px;
+    font-size: 80px;
+
+  }
+}

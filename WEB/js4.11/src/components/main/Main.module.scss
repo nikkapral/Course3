@@ -1,0 +1,19 @@
+.Main{
+  display: flex;
+  margin: 10vh 20%;
+  text-align: left;
+  height: auto;
+  position: relative;
+  flex-direction: column;
+
+  h2{
+    color: azure;
+    font-size: 40px;
+  }
+
+  p{
+    color: azure;
+    font-size: 20px;
+
+  }
+}
