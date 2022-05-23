@@ -1,0 +1,45 @@
+Rendering plan:
+    Headline - Основная тема
+    gist - суть
+    conclusion - Сделать 2 вывода (Вывод автора и свой вывод)
+    author = researcher
+    according to the 
+    at first = поначалу (нужен потом but)
+    the author considers = Автор рассматривает
+    the author argues = Автор утверждает (Не соглашается)
+    contention = спор
+    backboone = позвоночник
+    all things considered = рассмотрев все 
+
+
+    1 : Introduction    (The headline of the text is...; 
+                        This atricle dills with the problem;
+                        The author describes the problem;
+                        The article opens up with;
+                        The articles provides us with information;
+                        )
+
+                        Author ->: highlites, comments on, quoute, explains to the reader,
+
+    2 : Main            Connectors : moreover, plus, furthermore, first of all, 
+
+    3 : Ending          endings : in the end
+
+
+
+
+
+
+Case plan:
+    key role - ключевая роль
+    make a contribution - внести лепту
+    income = доход
+    result in = влияет
+    influence = влияет
+    leads to = приводит к ту
+
+
+    1. Bginning:
+        X of Y (X - Place, Y - project)
+
+    The museum had been keeping a lot of works of many famous scintist and illustrators, who one of the first represented the life cycle of insects and National environment

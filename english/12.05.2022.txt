@@ -1,0 +1,86 @@
+1. What is an exploit kit?:
+
+    exploit kits are automated programs used by attackers to exploit 
+    known vulnerabilities in systems or applications. 
+    They can be used to secretly launch attacks while victims are browsing the web, 
+    with the goal being to download and execute some type of malware.
+
+2. What place does it take in history?:
+
+    Exploit kits were more prevalent in 2015. 
+    Internet Explorer, Adobe Flash, and Adobe Reader are the most common 
+    software targeted applications by cybercriminals. 
+
+
+3. How to protect against exploit kits?:
+
+    Nowerdays exploit kits dont pose much of threat
+
+    Keep software up to date
+    Dont click spammy links
+    Avoid ads and popups
+    Use an antivirus
+
+
+
+
+
+
+influence (impact) on -> noun
+influence (impact) -> verb 
+
+FU doesnt justify non-ethical and harmful behaviour, beacause it takes care of reputation
+
+text of computer ethics answers:
+    1. one result of this
+    2. impact
+    3. moreover
+    4. in addition
+    5. firstly
+    6. for example
+    7. responsible
+    8. reputation
+    9. futhvermore
+    10. secondly
+    11. harmful
+    12. example
+    13. so
+    14. 
+
+sound sleep - крепкий сон
+consequences - последствия
+circumstance - обстоятельства
+vulnerability - уязвимости
+negligence - халатность
+property - собственность
+their advantage - их приемущество
+
+is divided into 
+is classified into
+breakes into
+split into
+includes
+national / nation
+accuse (smb) of (smth) - обвинять кого-то в чем-то
+comply with - в соответствии с 
+infringe the rights  - нарушать права
+witith the law - в соответствии с законом 
+at risk of breaking the law - быть близко к нарушению закона 
+
+rules an regulations - national laws / company policy
+
+listening notes:
+computer affects, professional responsability, ways to justify proffesional deesisions,
+careful not to accuse human life or property, product = proffesional standarts. 
+
+prof, capacity = in the work space / working environment / work context ->
+problem-solving, desicion-making ->
+justify your professional desicions ->
+it helps us to avoid accusing of negligence, because it affects human life and property.
+lawabiding 
+
+legislations -> national
+             -> international 
+
+
+national - privicy, data protection
