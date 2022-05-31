@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FakeNewsGenerator</string>
+    <string name="api_key">4609b21740684f5a991d6d406895a6bd</string>
+</resources>
